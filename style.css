@@ -1,0 +1,21 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
+.achivement{
+    display: inherit;
+    justify-content: space-around;
+}
+.profile{
+    padding: 50px;
+width: 70%;
+display: inherit;
+flex-direction: inherit;
+align-items: center;
+align-self: center;
+background-color: #32CD32;
+color: white;
+}
